@@ -29,7 +29,7 @@ echo "Copiando arquivos para diretório do Apache ..."
 cd linux-site-dio-main
 cp -R * /var/www/html/
 
-echo "Provisionando versão no Github ..."
+
 
 
 
